@@ -12,9 +12,7 @@ export default function About() {
             <br className="hidden lg:inline-block" />I am still figuring out this stuff, not going to lie.
           </h1>
           <p className="mb-8 leading-relaxed">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui
-            laborum quasi, incidunt dolore iste nostrum cupiditate voluptas?
-            Laborum, voluptas natus?
+            And you know what? It's completely fine! We all struggle a bit at the beginning, but we all "get it sorted" if we put in the work and keep trying harder!
           </p>
           <div className="flex justify-center">
             <a
